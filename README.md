@@ -2,7 +2,7 @@
  
   <!-- Header with Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3596F6&center=true&vCenter=true&width=700&lines=Parth+Takate;Full+Stack+Developer;Flutter+Engineer;AI+Enthusiast;Building+Scalable+Applications" alt="Typing SVG" />
-
+  
   <!-- Intro -->
   <h3>Computer Engineering @ SPPU | Research & Development</h3>
   
