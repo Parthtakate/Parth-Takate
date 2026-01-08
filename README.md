@@ -46,13 +46,13 @@
 ---
 
 ## 🔭 Engineering Projects
-While learning theory, I focus heavily on **building real systems**.
+While research drives my theory, I build systems to validate it in practice.
 
-| Project | Tech Stack | Key Engineering Focus |
-|------|-----------|-----------------------|
-| **Mendit – Home Services App** | `Flutter` `Firebase` | Production-ready mobile app with authentication, bookings, and role-based access |
-| **Flutter Practice Apps** | `Flutter` `Dart` | Clean UI architecture, reusable widgets, and state management |
-| **Backend API Experiments** | `FastAPI` `MySQL` | RESTful APIs with structured database design |
+| Project | Tech Stack | Key Engineering Contribution |
+|------|-----------|------------------------------|
+| **AI Bot with Advanced Memory Utilization**<br/><sub>Sinremtech Hackathon · Top 10 Finalist (2025)</sub> | `React` `FastAPI` `LLMs` | Built a multilingual chatbot supporting text & speech. Implemented **Incremental Contextual Distillation** to compress long conversations, improving coherence while significantly reducing API usage cost. |
+| **Hierarchical Memory Architecture for LLMs**<br/><sub>Incremental Context Distillation for Language Models (2024)</sub> | `Python` `LLMs` | Designed short-term and long-term memory layers enabling efficient context retention. Achieved **50–80% reduction in API operational cost** during long-running conversations. |
+| **Potato Leaf Disease Detection**<br/><sub>Deep Learning Computer Vision Project (2024)</sub> | `Python` `ResNet50` `Streamlit` | Developed a CNN model achieving **99% accuracy** for plant disease detection and deployed it as a real-time Streamlit web application. |
 
 ---
 
