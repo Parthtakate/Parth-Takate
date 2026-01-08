@@ -44,6 +44,27 @@
 - Software Development Life Cycle (SDLC)
 
 ---
+## 💼 Experience
+
+### **Freelance Software Engineer**  
+**Mendit – Home Services Application**  
+*Jan 2025 – Present · Remote*
+
+- Architected and developed a **production-ready Flutter mobile application** with a Firebase backend.
+- Implemented **authentication, booking workflows, and role-based access control**.
+- Designed **scalable Firestore schemas**, optimized read/write operations, and enforced secure access using Firebase Security Rules.
+- Collaborated closely with **business stakeholders** to translate real-world requirements into technical solutions and iterative feature releases.
+
+---
+
+### **Operations Analytics Intern**  
+**BrainyTots**  
+*Sep 2025 – Present · Pune, India*
+
+- Analyzed **unstructured customer inquiry and return data** to identify intent patterns and operational inefficiencies.
+- Implemented **feedback-driven analysis workflows**, reducing product returns by **15%**.
+- Managed data consistency across operational datasets and supported decision-making through structured analysis.
+
 
 ## 🔭 Engineering Projects
 While research drives my theory, I build systems to validate it in practice.
