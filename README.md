@@ -62,15 +62,15 @@ While learning theory, I focus heavily on **building real systems**.
 
 ---
 
-## 📊 Activity & Analytics
-<div align="center">
-  <a href="https://github.com/Parthtakate">
-    <img src="https://github-readme-stats.vercel.app/api?username=Parthtakate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  </a>
-  <a href="https://github.com/Parthtakate">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthtakate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="150" />
-  </a>
-</div>
+## 🔬 Research & Publications
+
+I actively contribute to the field of **Artificial Intelligence**, with a focus on  
+**Context Distillation**, **Memory-Augmented LLMs**, and **Multimodal Learning**.
+
+| Type | Publication / Paper | Links |
+|-----|---------------------|-------|
+| **Preprint** | **Incremental Context Distillation: A Tiered Memory Architecture for Efficient Long-Context Conversational AI**<br/><br/>Proposed a tiered **Short-Term / Long-Term memory architecture** to overcome fixed context window limitations in conversational AI.<br/>• **78% reduction in token load**<br/>• **72% decrease in API costs**<br/>• **98% Context Retention Score (CRS)** | <a href="#" target="_blank"><img src="https://img.shields.io/badge/View-Preprint_PDF-b31b1b?style=flat-square&logo=adobe-acrobat-reader&logoColor=white"/></a> |
+| **IEEE Conference** | **Image Caption Generator with CLIP Interrogator**<br/><br/><b>Primary Author</b>. Peer-reviewed paper presented at the **IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI-2025)**, **IIM Gwalior**.<br/><br/>Explores AI-driven image captioning using **CLIP Interrogator**, integrating computer vision and natural language processing. | <a href="https://ieeexplore.ieee.org/document/10985030" target="_blank"><img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=flat-square&logo=ieee&logoColor=white"/></a> |
 
 ---
 
